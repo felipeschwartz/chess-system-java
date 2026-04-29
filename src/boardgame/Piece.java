@@ -1,4 +1,4 @@
-package bordgame;
+package boardgame;
 
 public class Piece {
     protected Position posicion;
